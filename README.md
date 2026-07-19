@@ -9,7 +9,8 @@ A cross-platform Flutter application that calculates Body Mass Index (BMI) in re
 
 | Input Screen | Result — Healthy | Result — Underweight | Result — Overweight |
 |:---:|:---:|:---:|:---:|
-| ![Input](screenshots/input.png) | ![Healthy](screenshots/result_healthy.png) | ![Underweight](screenshots/result_under.png) | ![Overweight](screenshots/result_over.png) |
+| ![Input](screenshots/<img width="446" height="841" alt="image" src="https://github.com/user-attachments/assets/d76a520b-2a80-4535-8623-bc4f8abdac8b" />
+) | ![Healthy](screenshots/result_healthy.png) | ![Underweight](screenshots/result_under.png) | ![Overweight](screenshots/result_over.png) |
 
 ## ✨ Features
 
