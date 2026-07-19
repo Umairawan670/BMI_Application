@@ -2,15 +2,11 @@
 
 A cross-platform Flutter application that calculates Body Mass Index (BMI) in real time using user-provided height and weight, with instant, color-coded health classification.
 
-<!-- Replace the line below with your actual banner/hero screenshot -->
-![BMI Calculator Banner](screenshots/banner.png)
-
 ## 📱 Screenshots
 
-| Input Screen | Result — Healthy | Result — Underweight | Result — Overweight |
+| Input Screen | Result — Underweight | Result — Healthy | Result — Overweight |
 |:---:|:---:|:---:|:---:|
-| ![Input](screenshots/<img width="446" height="841" alt="image" src="https://github.com/user-attachments/assets/d76a520b-2a80-4535-8623-bc4f8abdac8b" />
-) | ![Healthy](screenshots/result_healthy.png) | ![Underweight](screenshots/result_under.png) | ![Overweight](screenshots/result_over.png) |
+| <img src="https://github.com/user-attachments/assets/d76a520b-2a80-4535-8623-bc4f8abdac8b" width="200"> | <img src="https://github.com/user-attachments/assets/c9e7f236-cd27-4903-aae4-087071c8a678" width="200"> | <img src="https://github.com/user-attachments/assets/61cef512-0971-481a-98b0-9a073e597236" width="200"> | <img src="https://github.com/user-attachments/assets/2784b19a-47d7-4434-95d1-e2d074e20575" width="200"> |
 
 ## ✨ Features
 
